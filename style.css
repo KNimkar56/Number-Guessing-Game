@@ -1,0 +1,30 @@
+h1{
+    background-color: black;
+    color: white;
+   text-align: center;
+}
+#wrapper{
+    font-size: larger;
+    background-color: rgba(0, 0, 0, 0.767);
+    align-items: center;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+#guess{
+    font-size: larger;
+}
+.guessSubmit{
+    background-color: black;
+    color: white;
+    padding: 2px;
+    width: 40vh;
+    font-size: large;
+}
+#subt{
+    background-color: rgb(221, 15, 15);
+}
+.lowOrhi{
+    background-color: rgb(13, 255, 0);
+    color: black;
+}
